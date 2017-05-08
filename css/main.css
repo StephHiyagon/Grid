@@ -35,11 +35,10 @@ box-sizing: border-box;
 
 .col-3{
   width:25%;
-  background-color: skyblue;
 }
 
 .col-4{
-  width:33.3333%
+  width:33.3333%;
 }
 
 .col-5{
@@ -48,7 +47,6 @@ box-sizing: border-box;
 
 .col-6{
   width:50%;
-  background-color: #fafafa;
 }
 
 .col-7{
@@ -73,4 +71,10 @@ box-sizing: border-box;
 
 .col-12{
   width:100%;
+}
+
+.caja{
+  background-color: #77787C;
+  height: 300px;
+  margin:4%;
 }
