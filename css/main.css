@@ -86,7 +86,7 @@ box-sizing: border-box;
 }
 
 .caja3{
-  background-color: #77787C;
+  background-color: #DCDDDF;
   height: 300px;
   margin:4% 0;
 }
@@ -98,14 +98,23 @@ box-sizing: border-box;
 }
 
 .caja5{
-  background-color: #77787C;
+  background-color: #DCDDDF;
   height: 600px;
   margin:auto;
   margin-bottom: 10px;
 }
 
 .caja6{
-  background-color: #77787C;
+  background-color: #DCDDDF;
   height: 600px;
   margin-left:12.5%;
+}
+
+.caja7{
+  height: 300px;
+  margin:4%;
+}
+
+.c8{
+  background-color: #DCDDDF;
 }
