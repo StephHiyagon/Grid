@@ -138,6 +138,10 @@ box-sizing: border-box;
   float:right;
 }
 
+.left{
+  margin-left: 12.5%;
+}
+
 a{
   font-size:2rem;
 }
