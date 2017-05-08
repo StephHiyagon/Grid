@@ -78,3 +78,34 @@ box-sizing: border-box;
   height: 300px;
   margin:4%;
 }
+
+.caja2{
+  background-color: #77787C;
+  height: 600px;
+  margin-top:4%;
+}
+
+.caja3{
+  background-color: #77787C;
+  height: 300px;
+  margin:4% 0;
+}
+
+.caja4{
+  background-color: #77787C;
+  height: 300px;
+  margin:4% auto;
+}
+
+.caja5{
+  background-color: #77787C;
+  height: 600px;
+  margin:auto;
+  margin-bottom: 10px;
+}
+
+.caja6{
+  background-color: #77787C;
+  height: 600px;
+  margin-left:12.5%;
+}
