@@ -133,3 +133,11 @@ box-sizing: border-box;
 .c11{
   height: 600px;
 }
+
+.right{
+  float:right;
+}
+
+a{
+  font-size:2rem;
+}
